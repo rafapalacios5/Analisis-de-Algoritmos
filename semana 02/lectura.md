@@ -1,1 +1,5 @@
-lectura de la semana 2 
+# Algoritmia Elemental
+Es el estudio de los algoritmos básicos, sus propiedades y cómo diseñar y analizarlos
+
+# Eficiencia de los Algoritmos 
+
