@@ -14,9 +14,8 @@ public class mergeSort {
 
         int p = 0;
         int r = A.length - 1;
-        int q = (r / 2); // Ojo: no -1, para que sea exactamente la mitad
+        int q = (r / 2);
 
-        // Ahora hacemos la "merge" manualmente
         int nL = q - p + 1;
         int nR = r - q;
 
