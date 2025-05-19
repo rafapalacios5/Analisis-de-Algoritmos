@@ -12,3 +12,6 @@ Este repositorio contiene las tareas organizadas por semana.
 - 📄 [Merge Sort (Java)](semana%2003/mergeSort.java)
 
 ---
+
+### 📁 Semana 05
+- 📄 [Nombre de la tarea](semana%2005/nombre_archivo.java)
