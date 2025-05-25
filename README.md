@@ -15,3 +15,9 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ### 📁 Semana 05
 - 📄 [Nombre de la tarea](semana%2005/nombre_archivo.java)
+
+---
+
+### 📁 Semana 06
+- 📄 [Estructuras de control](semana%2006/AnalisisAlgoritmosT2.docx)
+
