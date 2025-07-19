@@ -27,4 +27,5 @@ Este repositorio contiene las tareas organizadas por semana.
 - 📄 [Secuencia Fibonacci (Java)](primer_bimestre/semana%2007/secuenciaFibonacci.java)
 - 📝 [Secuencia Fibonacci](primer_bimestre/semana%2007/AnalisisAlgoritmosFibonacci.docx)
 
+---
 ## ✅ Tareas Segundo Bimestre
