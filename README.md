@@ -14,12 +14,12 @@ Este repositorio contiene las tareas organizadas por semana.
 ---
 
 ### 📁 Semana 05
-- 📝 [Notacion](semana%2005/AnalisisAlgoritmosT1.docx)
+- 📝 [Notacion](primer_bimestre/semana%2005/AnalisisAlgoritmosT1.docx)
 
 ---
 
 ### 📁 Semana 06
-- 📝 [Estructuras de control](semana%2006/AnalisisAlgoritmosT2.docx)
+- 📝 [Estructuras de control](primer_bimestre/semana%2006/AnalisisAlgoritmosT2.docx)
 
 ---
 
