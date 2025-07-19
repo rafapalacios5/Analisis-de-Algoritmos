@@ -5,6 +5,7 @@ Los algoritmos voraces son estrategias de resolución de problemas de optimizaci
 - En cada paso, elige la mejor opción disponible en ese momento
 - Suelen ser rápidos y fáciles de implementar
 - No garantizan la mejor solución en todos los casos
+- A medida que avanza el algoritmo, se van acomulando dos conjuntos. Uno contiene candidatos que ya han sido considerados y seleccionados, mientras que el otro contiene candidatos que han sido considerados y rechazados
 
 ## Ejemplo
 - Algoritmo de Dijkstra: Encontrar la ruta más corta desde un nodo origen a todos los demás en un grafo ponderado
