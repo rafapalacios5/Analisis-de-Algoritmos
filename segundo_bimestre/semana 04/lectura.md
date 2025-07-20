@@ -1,6 +1,6 @@
 # Divide y Venceras 
 
-## Ordenamiento
+## Ordenación
 
 - Merge Sort (Ordenamiento por Mezcla): Divide la lista en dos mitades, ordena cada mitad recursivamente y mezcla las dos mitades ordenadas en una sola lista ordenada.
 
