@@ -6,10 +6,6 @@ Es una tecnica para diseñar algoritmos que que conssite en descomponer el caso 
 - Los subproblemas se resuelven recursivamente
 - Se combinan las soluciones de los subproblemas se integran para formar la solución del problema original
 
-## Eficiencia
-- Mejor caso: El elemento que se busca está en el centro por lo que se hace una sola comparación.
-- Peor case: El elemento que se busca está en la esquina
-
 ## Ejemplos
 - Búsqueda Binaria: Compara el elemento buscado con el valor medio del arreglo ordenado, descarta la mitad donde el elemento no puede estar.
 
@@ -21,3 +17,9 @@ Es una tecnica para diseñar algoritmos que que conssite en descomponer el caso 
 
 ## Desventajas
 - Puede consumir mucha memoria en problemas muy grandes
+
+# Busqueda Binaria
+
+## Eficiencia
+- Mejor caso: El elemento que se busca está en el centro por lo que se hace una sola comparación.
+- Peor case: El elemento que se busca está en la esquina
