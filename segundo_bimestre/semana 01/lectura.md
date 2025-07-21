@@ -23,8 +23,8 @@ Los algoritmos voraces son estrategias de resolución de problemas de optimizaci
 | Algoritmo          | Problema Resuelto                          | Ejemplo de Uso                     |  
 |--------------------|-------------------------------------------|-----------------------------------|  
 | **Dijkstra** 🛣️   | Camino más corto en grafos (sin pesos negativos) | GPS, redes de routing.           |  
-| **Kruskal** 🌳    | Árbol de expansión mínima (MST)           | Diseño de redes eléctricas.       |  
-| **Prim** 🌐       | Árbol de expansión mínima (MST)           | Conectar ciudades con fibra óptica.|  
+| **Kruskal** 🌳    | Árbol de expansión mínima               | Diseño de redes eléctricas.       |  
+| **Prim** 🌐       | Árbol de expansión mínima            | Conectar ciudades con fibra óptica.|  
 
 ---
 
