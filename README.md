@@ -29,3 +29,6 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ---
 ## ✅ Tareas Segundo Bimestre
+
+### 📁 Semana 03
+- 📄 [algoritmo de Prim (Java)](segundo_bimestre/semana%2001/algoritmoPrim.java)
