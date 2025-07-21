@@ -1,4 +1,4 @@
-# ⚔️ Divide y Vencerás
+# Divide y Vencerás
 
 Es una técnica para diseñar algoritmos que consiste en **descomponer** el problema en subcasos más pequeños, **resolverlos recursivamente** y luego **combinar** sus soluciones para resolver el problema original.
 
