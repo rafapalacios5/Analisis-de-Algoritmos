@@ -1,20 +1,18 @@
-# 🚀 Algoritmos Voraces
+## 🔗 Grafos
+Un **grafo** es un conjunto de nodos (también llamados **vértices**) que pueden estar conectados por **aristas** (o enlaces).  
+Cada nodo está identificado por una **etiqueta única**.
 
-## Grafos
-Son un conjunto de nodos o vértices que pueden estar o no conectados por aristas.
-cada nodo está identificado por una etiqueta 
+---
 
-### Grafos: Caminos Mínimos
+## 🧭 Caminos Mínimos con Dijkstra
 
-También conocido como algoritmo de Dijkstra, es un algoritmo de búsqueda de caminos más cortos en un grafo, donde cada arista tiene un peso.
-Encontrar el camino más corto desde un nodo origen a todos los demás nodos en un grafo con pesos no negativos.
+El algoritmo de **Dijkstra** es una técnica voraz que se utiliza para encontrar el **camino más corto** desde un nodo origen a todos los demás nodos en un grafo **con pesos no negativos**.
 
-### Caracteristicas
-- En cada paso, selecciona el nodo no visitado con la menor distancia conocida.
-- No funciona con pesos negativos
+### 🛠️ Características
+- 🔍 Selecciona el nodo **no visitado** con la menor **distancia conocida**.
+- ❌ **No funciona con pesos negativos** (usa Bellman-Ford en ese caso).
 
-
-### Aplicaciones:
-- Sistemas de navegación GPS: Encontrar la ruta más rápida entre dos ubicaciones.
-- Redes de comunicación: Enrutar paquetes de datos de forma eficiente.
-- Robótica: Calcular movimientos seguros y eficientes
+### 💡 Aplicaciones
+- 📍 **GPS / Mapas**: Encontrar la ruta más rápida entre dos ubicaciones.
+- 🌐 **Redes de comunicación**: Enrutamiento eficiente de paquetes de datos.
+- 🤖 **Robótica**: Calcular trayectorias seguras y eficientes.
