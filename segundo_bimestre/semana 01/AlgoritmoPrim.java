@@ -57,7 +57,7 @@ public class AlgoritmoPrim {
         conjuntoVisitado.add(0);
         colaPrioridad.addAll(listaAdyacencia.get(0));
 
-        // Encabezado de tabla
+        // Encabezado de tabla de la prueba de escritorio
         System.out.println("\n╔════════════════════════════════════════════════════════════════════════════════════════════════════════════╗");
         System.out.printf("║  %-35s │ %-15s │ %-15s │ %-10s │ %-5s ║\n",
                 "T (Árbol Parcial)", "B (Visitados)", "N/B (No Visitados)", "e = {u,v}", "Costo");
@@ -98,7 +98,7 @@ public class AlgoritmoPrim {
         }
     }
 
-    // Convierte un conjunto de índices en lista legible (1-indexado)
+    // Convertir un conjunto de índices en lista legible
     static String mostrarConjunto(Set<Integer> conjunto) {
         List<Integer> nodos = new ArrayList<>();
         for (int nodo : conjunto) nodos.add(nodo + 1);
