@@ -1,20 +1,51 @@
-# Algoritmos Voraces
-Los algoritmos voraces son estrategias de resolución de problemas de optimización paso a paso, seleccionando en cada etapa la opción que parece ser la mejor en ese momento, sin considerar las consecuencias a largo plazo de esa decisión. Estos algoritmos son simples y eficientes, pero no siempre garantizan la mejor solución para todos los problemas.
+# 🎯 Algoritmos Voraces (Greedy Algorithms)  
 
-## Carasteristcas
-- En cada paso, elige la mejor opción disponible en ese momento
-- Suelen ser rápidos y fáciles de implementar
-- No garantizan la mejor solución en todos los casos
-- A medida que avanza el algoritmo, se van acomulando dos conjuntos. Uno contiene candidatos que ya han sido considerados y seleccionados, mientras que el otro contiene candidatos que han sido considerados y rechazados
+Los algoritmos voraces son estrategias de resolución de problemas de optimización **paso a paso**, seleccionando en cada etapa la opción que parece **óptima en ese momento** (sin mirar consecuencias futuras).  
 
-## Ejemplo
-- Algoritmo de Dijkstra: Encontrar la ruta más corta desde un nodo origen a todos los demás en un grafo ponderado
-- Algoritmo de Prim y Kruskal: Encontrar el árbol que conecte todos los nodos de un grafo con el menor peso total
+---
 
-## Ventajas
-- Simplicidad en su diseño e implementación.
-- Más rápido que otros algoritmos de optimización
+## 🧩 Características Principales  
 
-## Desventajas
-- No siempre garantiza la solución óptima.
-- La elección de la función de selección es importante para obtener buenos resultados
+- ✅ **Elección voraz (Greedy Choice):**  
+  En cada paso, elige **la mejor opción local disponible** (sin arrepentimiento).  
+- ⚡ **Eficiencia:**  
+  Suelen ser **rápidos** (complejidad a menudo lineal o logarítmica).  
+- 🚫 **No siempre óptimos:**  
+  No garantizan la solución global óptima para todos los problemas.  
+- 📌 **Dos conjuntos clave:**  
+  - **Seleccionados:** Candidatos ya elegidos.  
+  - **Rechazados:** Candidatos descartados.  
+
+---
+
+## 📌 Ejemplos Clásicos  
+
+| Algoritmo          | Problema Resuelto                          | Ejemplo de Uso                     |  
+|--------------------|-------------------------------------------|-----------------------------------|  
+| **Dijkstra** 🛣️   | Camino más corto en grafos (sin pesos negativos) | GPS, redes de routing.           |  
+| **Kruskal** 🌳    | Árbol de expansión mínima (MST)           | Diseño de redes eléctricas.       |  
+| **Prim** 🌐       | Árbol de expansión mínima (MST)           | Conectar ciudades con fibra óptica.|  
+| **Huffman** 📊    | Compresión de datos                       | ZIP, MP3, JPEG.                   |  
+
+---
+
+## 👍 Ventajas  
+
+- 🚀 **Simplicidad:** Fáciles de diseñar e implementar.  
+- ⏱️ **Rapidez:** Más eficientes que otros métodos (ej: programación dinámica).  
+
+---
+
+## 👎 Desventajas  
+
+- ❌ **Optimalidad no garantizada:**  
+  La solución puede ser **localmente óptima** pero no globalmente (ej: problema del cambio con monedas [1, 3, 4] y cambio `6`).  
+- 🔍 **Dependencia de la función de selección:**  
+  La elección del criterio voraz afecta drásticamente el resultado.  
+
+---
+
+### 💡 **Conclusión**  
+Usa algoritmos voraces cuando:  
+- **La elección local lleva a una solución global óptima** (ej: Dijkstra en grafos sin pesos negativos).  
+- **Necesitas eficiencia** (tiempos de ejecución bajos).  
