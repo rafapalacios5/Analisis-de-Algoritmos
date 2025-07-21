@@ -1,4 +1,4 @@
-# Algoritmos Voraces
+# 🚀 Algoritmos Voraces
 
 ## Grafos
 Son un conjunto de nodos o vértices que pueden estar o no conectados por aristas.
