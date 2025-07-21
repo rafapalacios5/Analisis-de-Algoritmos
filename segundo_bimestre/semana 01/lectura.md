@@ -1,4 +1,4 @@
-# 🎯 Algoritmos Voraces (Greedy Algorithms)  
+# 🎯 Algoritmos Voraces 
 
 Los algoritmos voraces son estrategias de resolución de problemas de optimización **paso a paso**, seleccionando en cada etapa la opción que parece **óptima en ese momento** (sin mirar consecuencias futuras).  
 
