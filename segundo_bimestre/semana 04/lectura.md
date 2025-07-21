@@ -1,35 +1,36 @@
-# Divide y Venceras 
+# Divide y Vencerás
 
-## Ordenación
+## 📦 Ordenación
 
-- Merge Sort (Ordenamiento por Mezcla): Divide la lista en dos mitades, ordena cada mitad recursivamente y mezcla las dos mitades ordenadas en una sola lista ordenada.
+- 🔀 **Merge Sort (Ordenamiento por Mezcla)**: Divide la lista en dos mitades, ordena cada mitad recursivamente y **mezcla** las dos mitades ordenadas en una sola lista ordenada.
 
-- Quick Sort (Ordenamiento Rápido): Se selecciona un "pivote" y particiona la lista en elementos menores y mayores que el pivote, ordena recursivamente las sublistas.
+- ⚡ **Quick Sort (Ordenamiento Rápido)**: Se selecciona un **pivote**, se **particiona** la lista en elementos menores y mayores que el pivote, y se ordenan recursivamente las sublistas.
 
 ---
-# Merge Sort
-## Ventajas:
 
-- Eficiencia: tiene una complejidad temporal de O(n log n), lo que lo hace eficiente para grandes conjuntos de datos. 
+# 🔁 Merge Sort
 
-- Al usar recursividad permite una fácil implementación en sistemas paralelos. 
+## ✅ Ventajas:
 
-## Desventajas:
-- Requiere memoria adicional para almacenar las sublistas temporales. 
+- ⚡ **Eficiencia**: Tiene una complejidad temporal de **O(n log n)**, lo que lo hace eficiente para grandes conjuntos de datos.
+- 🤖 Al usar **recursividad**, permite una fácil implementación en **sistemas paralelos**.
 
-- Puede ser menos eficiente en casos de listas pequeñas.
+## ❌ Desventajas:
 
---- 
-# Quick Sort
+- 💾 Requiere **memoria adicional** para almacenar las sublistas temporales.
+- 🐢 Puede ser **menos eficiente** en listas pequeñas.
 
-## Ventajas:
+---
 
-- Tiene una complejidad promedio de O(n log n), lo que lo hace rápido para grandes conjuntos de datos. 
+# ⚡ Quick Sort
 
-- En el lugar (in-place): No requiere memoria adicional significativa para el ordenamiento. 
+## ✅ Ventajas:
 
-## Desventajas:
+- 🚀 Tiene una complejidad **promedio de O(n log n)**, lo que lo hace muy **rápido** para grandes conjuntos de datos.
+- 💡 **In-place**: No requiere memoria adicional significativa para el ordenamiento.
 
-- En el peor caso (cuando el pivote siempre es el elemento más pequeño o más grande), su complejidad puede ser O(n^2). 
+## ❌ Desventajas:
 
-- La elección del pivote puede afectar significativamente el rendimiento. Estrategias como la elección aleatoria pueden ayudar a mitigar este problema. 
+- 🕳️ En el **peor caso** (cuando el pivote es el más pequeño o más grande), la complejidad puede ser **O(n²)**.
+- 🎯 La **elección del pivote** puede afectar significativamente el rendimiento. Estrategias como la **elección aleatoria** ayudan a mejorar la eficiencia.
+
