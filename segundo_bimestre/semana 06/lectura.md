@@ -1,6 +1,6 @@
 # Argoritmos Probabilistas
 
-# ⏱️ 6.1 Tiempo Esperado
+# Tiempo Esperado
 
 El **tiempo esperado** (o esperanza matemática del tiempo de ejecución) es una medida del **rendimiento promedio** de un algoritmo, considerando la **probabilidad de ocurrencia** de distintos casos de entrada.
 
@@ -28,7 +28,7 @@ En lugar de analizar solo el mejor o peor caso, se calcula una media ponderada s
 
 ---
 
-# 🧮 6.2 Algoritmos Numéricos
+# Algoritmos Numéricos
 
 Los **algoritmos numéricos** son procedimientos diseñados para resolver **problemas matemáticos** mediante aproximaciones numéricas, como resolver ecuaciones, integrar funciones, interpolar, derivar, etc.
 
