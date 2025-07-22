@@ -35,4 +35,4 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ---
 ### 📁 Semana 07
-- 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2006/pseudoaleatorios.java)
+- 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2006/pseudoaleatorio.java)
