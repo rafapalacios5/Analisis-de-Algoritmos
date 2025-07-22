@@ -32,3 +32,7 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ### 📁 Semana 01
 - 📄 [algoritmo de Prim (Java)](segundo_bimestre/semana%2001/AlgoritmoPrim.java)
+
+---
+### 📁 Semana 07
+- 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2007/pseudoaleatorios.java)
