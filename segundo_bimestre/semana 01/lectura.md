@@ -47,4 +47,35 @@ Los algoritmos voraces son estrategias de resolución de problemas de optimizaci
 ### 💡 **Conclusión**  
 Usa algoritmos voraces cuando:  
 - **La elección local lleva a una solución global óptima** (ej: Dijkstra en grafos sin pesos negativos).  
-- **Necesitas eficiencia** (tiempos de ejecución bajos).  
+- **Necesitas eficiencia** (tiempos de ejecución bajos).
+
+--- 
+
+# 🔗 Grafos No Dirigidos
+
+Un grafo no dirigido es una estructura de datos que consiste en un conjunto de vértices (nodos) y aristas (conexiones) en las que no existe dirección.
+
+👉 Si hay una arista entre el nodo A y el nodo B, entonces se puede ir tanto de A a B como de B a A.
+
+---
+
+## 📌 Características principales
+
+- 🔄 Las aristas **no tienen dirección definida** por lo que pueden irse a cualquier dirección
+- 👥 Puede tener **ciclos**, **componentes conexas** o **subgrafos**.
+
+---
+
+## ✅ Ventajas
+
+- 📉 Suele requerir **menos espacio** para representación en ciertas aplicaciones.
+- 👨‍👨‍👧‍👦 Muy útil para análisis de **conectividad** entre nodos.
+
+---
+
+## ❌ Desventajas
+
+- 🚫 No apto para modelar relaciones **asimétricas** (como flujo, rutas de tráfico o herencia).
+- 🔍 Algunas operaciones (como búsquedas específicas de dirección) no se pueden hacer directamente.
+- 🧭 Puede ser más limitado en cuanto a análisis direccional (no hay flujo de información definido).
+
