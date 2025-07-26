@@ -11,9 +11,12 @@ Este repositorio contiene las tareas organizadas por semana.
 | Semana     | Lectura                                                                   |
 |------------|---------------------------------------------------------------------------|
 | Semana 01  | [Introducción a los Algoritmos](primer_bimestre/semana%2001/lectura.md)   |
-|------------|---------------------------------------------------------------------------|
 | Semana 02  | [Algoritmia Elemental](primer_bimestre/semana%2002/lectura.md)            |
-|------------|---------------------------------------------------------------------------|
+| Semana 03  | [Analisis Caso Peor y Operación elemental](primer_bimestre/semana%2003/lectura.md) |
+| Semana 04  | [Notaciones Asintótica y para "El orden de"](primer_bimestre/semana%2004/lectura.md) |
+| Semana 05  | [Notaciónes Omega, Theta y asintótica condicional](primer_bimestre/semana%2005/lectura.md)|
+| Semana 06  | [Análisis de las estructuras de control](primer_bimestre/semana%2006/lectura.md)|
+| Semana 07  | [Análisis del Caso Medio, Análisis Amortizado y Recurrencia](primer_bimestre/semana%2007/lectura.md)|
 
 ---
 
