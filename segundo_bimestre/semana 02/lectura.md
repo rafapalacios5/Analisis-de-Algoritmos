@@ -1,3 +1,5 @@
+
+---
 ## 🔗 Grafos
 Un **grafo** es un conjunto de nodos (también llamados **vértices**) que pueden estar conectados por **aristas** (o enlaces).  
 Cada nodo está identificado por una **etiqueta única**.
