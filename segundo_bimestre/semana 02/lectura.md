@@ -14,6 +14,8 @@ Los **grafos dirigidos** toman decisiones paso a paso eligiendo la **opción loc
 
 👉 En los grafos dirigidos, **las aristas tienen dirección**, por lo tanto, el algoritmo debe tener en cuenta la **dirección del flujo** para encontrar rutas válidas.
 
+![Diagrama de algoritmo](https://koketxt.wordpress.com/wp-content/uploads/2013/06/imagen5.png)
+
 ---
 
 ## 📌 ¿Cuándo se aplican?
