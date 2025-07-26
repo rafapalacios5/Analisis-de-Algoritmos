@@ -6,6 +6,14 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ---
 
+## 📑 Lecturas Semanales Primer Bimestre
+
+| Semana     | Lectura                                     |
+|------------|---------------------------------------------|
+| Semana 01  | [Introducción a los Algoritmos](primer_bimestre/semana%2001/lectura.md)   |
+
+---
+
 ## ✅ Tareas Primer Bimestre
 
 ### 📁 Semana 03
