@@ -1,6 +1,6 @@
 # Divide y Venceras
 
-# 📊 5.3 Mediana
+# 📊 Mediana
 
 La **mediana** es una medida de tendencia central que representa el **valor central** de un conjunto de datos ordenado.  
 Si hay un número impar de elementos, es el del medio.  
@@ -27,7 +27,7 @@ Si hay un número par, es el promedio de los dos valores centrales.
 
 ---
 
-# ✖️ 5.4 Multiplicación de Matrices
+# ✖️ Multiplicación de Matrices
 
 La **multiplicación de matrices** es una operación algebraica donde dos matrices se combinan para formar una tercera, aplicando reglas específicas de productos y sumas de filas y columnas.
 
@@ -43,11 +43,15 @@ La **multiplicación de matrices** es una operación algebraica donde dos matric
 - 💾 **Uso de memoria** elevado si se usan algoritmos recursivos o se trabaja con muchas matrices intermedias.
 - ⚠️ **Errores numéricos** pueden acumularse en cálculos con flotantes.
 
----
-
 ## 🔍 Mejor caso:
 - Con matrices con **muchos ceros** (matrices dispersas) o estructuras especiales → optimización significativa → complejidad **menor que O(n³)**.
 
 ## 🕳️ Peor caso:
 - Multiplicación de dos matrices grandes y **densas** con el algoritmo tradicional → **O(n³)**.
+
+## 🧠 Ejemplo Algoritmo: Strassen
+- Divide cada matriz en **4 submatrices**.
+- Aplica 7 multiplicaciones recursivas en lugar de 8.
+- Combina los resultados de forma específica para formar la matriz final.
+
 
