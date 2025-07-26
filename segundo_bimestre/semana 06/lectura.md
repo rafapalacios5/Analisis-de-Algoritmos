@@ -1,4 +1,4 @@
-# Argoritmos Probabilistas
+# 🎲 Argoritmos Probabilistas
 
 # Tiempo Esperado
 
@@ -26,9 +26,13 @@ En lugar de analizar solo el mejor o peor caso, se calcula una media ponderada s
 ## 🕳️ Peor caso:
 - Si entradas poco frecuentes causan mucha demora, el tiempo esperado puede **subestimar** el impacto de esos casos extremos.
 
+## 📌 Ejemplos:
+- QuickSort con pivote aleatorio: tiene un tiempo esperado de O(n log n) aunque su peor caso sea O(n²).
+- Algoritmos de Monte Carlo.
+
 ---
 
-# Algoritmos Numéricos
+# 🔢 Algoritmos Numéricos
 
 Los **algoritmos numéricos** son procedimientos diseñados para resolver **problemas matemáticos** mediante aproximaciones numéricas, como resolver ecuaciones, integrar funciones, interpolar, derivar, etc.
 
@@ -46,7 +50,6 @@ Son fundamentales en campos como la ingeniería, física, economía, informátic
 - 💾 Requieren **mucha memoria** o poder de cómputo en problemas grandes.
 - ⚠️ La **convergencia** no siempre está garantizada o puede ser muy lenta.
 
----
 
 ## 🔍 Mejor caso:
 - Cuando el algoritmo **converge rápidamente** (pocos pasos) y la función o sistema es **bien condicionado** → resultado preciso y rápido.
@@ -54,3 +57,20 @@ Son fundamentales en campos como la ingeniería, física, economía, informátic
 ## 🕳️ Peor caso:
 - Cuando el problema es **mal condicionado**, hay **división por cero**, **oscilaciones**, o el algoritmo **no converge** → resultados erróneos o muy lentos.
 
+## Ejemplo
+Este método aproxima la raíz cuadrada de un número dividiendo y promediando sucesivamente. Se detiene cuando la diferencia entre la estimación y el cociente es menor que una precisión definida.
+
+```java
+public class RaizCuadrada {
+    public static void main(String[] args) {
+        double numero = 25;  // Número del que queremos la raíz cuadrada
+        double x = numero;   // Adivinanza inicial
+        double precision = 0.00001;
+
+        while ((x - numero / x) > precision) {
+            x = (x + numero / x) / 2;
+        }
+
+        System.out.printf("Raíz cuadrada aproximada de %.0f: %.5f\n", numero, x);
+    }
+}
