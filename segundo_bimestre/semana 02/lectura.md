@@ -26,9 +26,19 @@ Los **grafos dirigidos** toman decisiones paso a paso eligiendo la **opción loc
 
 ---
 
-## 🧭 Caminos Mínimos con Dijkstra
+## Ejemplo
 
-El algoritmo de **Dijkstra** es una técnica voraz que se utiliza para encontrar el **camino más corto** desde un nodo origen a todos los demás nodos en un grafo **con pesos no negativos**.
+### 🧭 Caminos Mínimos con Dijkstra
+
+El **algoritmo de Dijkstra** es uno de los algoritmos voraces más conocidos aplicado a **grafos dirigidos con pesos no negativos**.
+
+### 🧠 ¿De qué se trata?
+
+- 📍 Parte desde un **nodo origen**.
+- En cada paso, elige el **nodo con la menor distancia conocida** desde el origen (que aún no ha sido procesado).
+- 📤 Actualiza las distancias a sus **vecinos alcanzables**, considerando la **dirección de las aristas**.
+- Repite hasta haber calculado las **distancias mínimas desde el origen a todos los demás nodos**.
+- El Objetivo es encontrar el **camino más corto** desde un nodo origen a todos los demás en un **grafo dirigido con pesos no negativos**.
 
 ### 🛠️ Características
 - 🔍 Selecciona el nodo **no visitado** con la menor **distancia conocida**.
