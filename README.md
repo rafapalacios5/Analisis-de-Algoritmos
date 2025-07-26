@@ -42,6 +42,21 @@ Este repositorio contiene las tareas organizadas por semana.
 - 📝 [Secuencia Fibonacci](primer_bimestre/semana%2007/AnalisisAlgoritmosFibonacci.docx)
 
 ---
+
+## 📑 Lecturas Semanales Segundo Bimestre
+
+| Semana     | Lectura                                                                   |
+|------------|---------------------------------------------------------------------------|
+| Semana 01  | [Algoritmos Voraces - Grafos No Dirigidos](segundo_bimestre/semana%2001/lectura.md)   |
+| Semana 02  | [Algoritmos Voraces - Grafos Dirigidos](segundo_bimestre/semana%2002/lectura.md)            |
+| Semana 03  | [Divide y Venceras - Busqueda Binaria](segundo_bimestre/semana%2003/lectura.md) |
+| Semana 04  | [Divide y Venceras - Ordenacion Merge Sort y Quick Sort](segundo_bimestre/semana%2004/lectura.md) |
+| Semana 05  | [Divide y Venceras - Mediana y Multiplicación de matrices ](segundo_bimestre/semana%2005/lectura.md)|
+| Semana 06  | [Argoritmos Probabilistas - Tiempo Esperado y Algoritmos Numéricos](segundo_bimestre/semana%2006/lectura.md)|
+| Semana 07  | [Argoritmos Probabilistas - Algoritmos de Monte Carlo](segundo_bimestre/semana%2007/lectura.md)|
+
+---
+
 ## ✅ Tareas Segundo Bimestre
 
 ### 📁 Semana 01
