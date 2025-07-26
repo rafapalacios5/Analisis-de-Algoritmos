@@ -57,6 +57,7 @@ Un grafo no dirigido es una estructura de datos que consiste en un conjunto de v
 
 👉 Si hay una arista entre el nodo A y el nodo B, entonces se puede ir tanto de A a B como de B a A.
 
+![Diagrama de algoritmo](https://koketxt.wordpress.com/wp-content/uploads/2013/06/g3.png)
 ---
 
 ## 📌 Características principales
