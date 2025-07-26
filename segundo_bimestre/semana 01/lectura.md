@@ -80,3 +80,18 @@ Un grafo no dirigido es una estructura de datos que consiste en un conjunto de v
 - 🔍 Algunas operaciones (como búsquedas específicas de dirección) no se pueden hacer directamente.
 - 🧭 Puede ser más limitado en cuanto a análisis direccional (no hay flujo de información definido).
 
+---
+
+## Ejemplo
+
+### Algoritmo de Prim
+
+El **algoritmo de Prim** es un algoritmo voraz que se utiliza para encontrar el **árbol de expansión mínima** en un grafo no dirigido con pesos en sus aristas.
+
+### 🧠 ¿De qué se trata?
+
+- Comienza en un nodo cualquiera.
+- En cada paso, agrega la **arista de menor peso** que conecta un **nodo ya visitado con uno no visitado**.
+- Se repite hasta que todos los nodos estén conectados sin formar ciclos.
+- El objetivo es construir un **subgrafo con el menor peso total posible** que conecte todos los nodos.
+
