@@ -11,6 +11,9 @@ Este repositorio contiene las tareas organizadas por semana.
 | Semana     | Lectura                                     |
 |------------|---------------------------------------------|
 | Semana 01  | [Introducción a los Algoritmos](primer_bimestre/semana%2001/lectura.md)   |
+|------------|---------------------------------------------|
+| Semana 02  | [Algoritmia Elemental](primer_bimestre/semana%2002/lectura.md)   |
+|------------|---------------------------------------------|
 
 ---
 
