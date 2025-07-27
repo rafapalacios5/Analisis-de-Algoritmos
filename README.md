@@ -78,6 +78,13 @@ Este repositorio contiene las tareas organizadas por semana.
 - 🖼 [algoritmo de Strassen-Multiplicar Matrices (resultado)](segundo_bimestre/semana%2005/AlgoritmoStrassen.png)
 
 ---
+
+### 📁 Tarea 04
+- 📄 [Funcion Devolver (Java)](segundo_bimestre/semana%2006/FuncionDevolver.java)
+- 🖼 [Funcion Devolver (resultado)](segundo_bimestre/semana%2006/FuncionDevolver.png)
+
+
+---
 ### 📁 Tarea 05
 - 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2007/pseudoaleatorio.java)
 - 🖼 [PseudoAleatorio (resultado)](segundo_bimestre/semana%2007/pseudoaleatorios.png)
