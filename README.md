@@ -69,6 +69,7 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ### 📁 Tarea 02
 - 📄 [algoritmo de Dijkstra (Java)](segundo_bimestre/semana%2002/AlgoritmoDijkstra.java)
+- 🖼 [algoritmo de Dijkstra (resultado)](segundo_bimestre/semana%2002/AlgoritmoDijkstra.png)
 
 ---
 
