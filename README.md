@@ -1,6 +1,8 @@
 # Analisis de Algoritmos
 ## Nombre: Rafaella Palacios
 
+---
+
 # 📝 Tareas del Curso
 
 Este repositorio contiene las tareas organizadas por semana.
