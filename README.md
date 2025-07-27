@@ -73,7 +73,7 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ### 📁 Tarea 03
 - 📄 [algoritmo de Strassen-Multiplicar Matrices (Java)](segundo_bimestre/semana%2005/AlgoritmoStrassen.java)
-- 📄 [algoritmo de Strassen-Multiplicar Matrices (resultado)](segundo_bimestre/semana%2005/AlgoritmoStrassen.java)
+- 📄 [algoritmo de Strassen-Multiplicar Matrices (resultado)](segundo_bimestre/semana%2005/AlgoritmoStrassen.png)
 
 ---
 ### 📁 Tarea 05
