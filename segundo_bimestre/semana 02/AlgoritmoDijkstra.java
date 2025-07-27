@@ -7,7 +7,7 @@ public class AlgoritmoDijkstra {
     static final int INF = Integer.MAX_VALUE;
 
     public static void main(String[] args) {
-        // Matriz de adyacencia que representa el grafo ponderado
+        // Matriz de adyacencia que representa el grafo
         int[][] L = {
             {0, 10, INF, 30, 100},  // Nodo 1
             {INF, 0, 50, INF, INF}, // Nodo 2
