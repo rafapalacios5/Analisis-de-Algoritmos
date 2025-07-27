@@ -61,14 +61,19 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ## ✅ Tareas Segundo Bimestre
 
-### 📁 Semana 01
+### 📁 Tarea 01
 - 📄 [algoritmo de Prim (Java)](segundo_bimestre/semana%2001/AlgoritmoPrim.java)
 
 ---
 
-### 📁 Semana 02
+### 📁 Tarea 02
 - 📄 [algoritmo de Dijkstra (Java)](segundo_bimestre/semana%2002/AlgoritmoDijkstra.java)
 
 ---
-### 📁 Semana 06
+
+### 📁 Tarea 03
+- 📄 [algoritmo de Strassen-Multiplicar Matrices (Java)](segundo_bimestre/semana%2005/AlgoritmoStrassen.java)
+
+---
+### 📁 Tarea 05
 - 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2006/pseudoaleatorio.java)
