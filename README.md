@@ -79,5 +79,5 @@ Este repositorio contiene las tareas organizadas por semana.
 
 ---
 ### 📁 Tarea 05
-- 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2006/pseudoaleatorio.java)
-- 🖼 [PseudoAleatorio (resultado)](segundo_bimestre/semana%2006/pseudoaleatorios.png)
+- 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2007/pseudoaleatorio.java)
+- 🖼 [PseudoAleatorio (resultado)](segundo_bimestre/semana%2007/pseudoaleatorios.png)
