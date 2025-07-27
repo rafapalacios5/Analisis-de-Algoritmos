@@ -70,5 +70,5 @@ Este repositorio contiene las tareas organizadas por semana.
 - 📄 [algoritmo de Dijkstra (Java)](segundo_bimestre/semana%2002/AlgoritmoDijkstra.java)
 
 ---
-### 📁 Semana 07
+### 📁 Semana 06
 - 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2006/pseudoaleatorio.java)
