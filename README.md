@@ -80,3 +80,4 @@ Este repositorio contiene las tareas organizadas por semana.
 ---
 ### 📁 Tarea 05
 - 📄 [PseudoAleatorio (Java)](segundo_bimestre/semana%2006/pseudoaleatorio.java)
+- 🖼 [PseudoAleatorio (resultado)](segundo_bimestre/semana%2006/AlgoritmoStrassen.png)
