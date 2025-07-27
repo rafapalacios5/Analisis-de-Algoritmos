@@ -1,4 +1,5 @@
-# Analisis-de-Algoritmos
+# Analisis de Algoritmos
+## Nombre: Rafaella Palacios
 
 # 📝 Tareas del Curso
 
